@@ -1,111 +1,164 @@
-# Hi there 👋 I'm Fabio Fiorucci
+<div align="center">
 
-Frontend Developer passionate about building enterprise-grade web applications, creating intuitive user experiences, and exploring modern software architectures.
+<img src="./assets/banner.svg" width="100%"/>
 
-Currently working as a Software Engineer at Sydema, developing complex business applications used by banks and large enterprises.
+<a href="https://fabio-fiorucci-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/fabiofiorucci">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/CodeCube0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:fabiofiorucci6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🚀 About Me
+<br/><br/>
 
-* 💼 Frontend Developer specialized in Vue 3, Nuxt 3 and TypeScript
-* 🏢 Building enterprise applications for banking and corporate environments
-* 🔗 Experienced with REST APIs, Microsoft Graph and enterprise integrations
-* 🎯 Focused on maintainable code, performance and user experience
-* 🤖 Interested in AI-assisted development, automation and software architecture
-* 🌱 Always learning new technologies and improving development workflows
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Building+enterprise-grade+web+applications;Vue+3+%2B+Nuxt+3+%2B+TypeScript+specialist;Microsoft+ecosystem+integrations;Exploring+AI-assisted+development+workflows" />
 
-## 🛠️ Tech Stack
+</div>
 
-### Frontend
+<br/>
 
-![Vue](https://img.shields.io/badge/Vue%203-42b883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge)
+## 👋 Chi sono
 
-### Backend & Services
+Sono un **Frontend Developer** e **Software Engineer** specializzato nella costruzione di applicazioni enterprise complesse, utilizzate da istituti bancari e grandi organizzazioni.
 
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-005571?style=for-the-badge)
+Mi occupo quotidianamente di:
+- 🏗️ progettazione di architetture frontend manutenibili
+- 🎯 UI/UX intuitive per flussi di lavoro complessi
+- 🔗 integrazione di servizi enterprise e API REST/SOAP
+- 🤝 collaborazione con team backend, UX e prodotto
 
-### Mobile
+Attualmente lavoro in **Sydema S.r.l.**, dove sviluppo e mantengo applicazioni business-critical con tecnologie web moderne.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge\&logo=android\&logoColor=white)
+<br/>
 
-### DevOps & Tools
+## 🛠 Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<div align="center">
 
-## 💼 Professional Experience
+**Frontend**
 
-### Sydema S.r.l.
+<img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,sass,html,css" />
 
-**Software Engineer** · 2025 - Present
+**Mobile**
 
-Developing and maintaining enterprise web applications using Vue 3, Nuxt 3 and TypeScript.
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" />
 
-Main activities:
+**Integrazioni & Servizi**
 
-* Enterprise frontend architecture
-* Complex dashboards and business workflows
-* Advanced form management
-* REST API integration
-* Microsoft Graph integration
-* Performance optimization
-* Collaboration with backend and UX teams
+<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/SOAP_API-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Office_JS-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/PrimeVue-41B883?style=flat-square" />
 
-### Previous Experience
+**DevOps & Tools**
 
-* Software Engineer Apprentice at Sydema (2022–2025)
-* Software Engineer Intern at Micra Software & Services (2021–2022)
+<img src="https://skillicons.dev/icons?i=git,gitlab,azure,postman,idea" />
 
-## 🔭 Current Focus
+</div>
 
-* Enterprise Frontend Architecture
-* AI for Software Development
-* Developer Productivity
-* Microsoft Ecosystem Integrations
-* Modern Web Applications
-* Clean Code & Maintainability
+<br/>
 
-## 🎓 Education
+## 💼 Percorso Professionale
 
-**ITS Umbria Smart Academy**
-Higher Technical Diploma (EQF Level 5)
+```mermaid
+timeline
+    title Il mio percorso
+    2021 : Tirocinio Software Engineer @ Micra Software & Services
+    2022 : Software Engineer (Apprendistato) @ Sydema S.r.l.
+    2025 : Software Engineer @ Sydema S.r.l. — Enterprise Applications
+    2026 : Frontend Specialist — Enterprise Architecture
+```
 
-Specialization:
+<br/>
 
-* Digital Technologies for Industry 4.0
-* Software Development
-* Enterprise Solutions
+## 🎯 Focus Attuale
 
-## 📊 GitHub Stats
+<table>
+<tr>
+<td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeCube0\&show_icons=true)
+🏛️ Enterprise Frontend Architecture
+🧩 Vue 3 Composition API
+⚡ Nuxt Applications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCube0\&layout=compact)
+</td>
+<td>
 
-## 🌍 Connect With Me
+🔌 Microsoft Graph Integrations
+📧 Outlook Add-ins
+🤖 AI-assisted Development
 
-* Portfolio → https://fabio-fiorucci-portfolio.vercel.app/
-* GitHub → https://github.com/CodeCube0
-* LinkedIn → https://linkedin.com/in/fabiofiorucci
+</td>
+<td>
 
-## ⚡ Fun Facts
+🚀 Developer Productivity
+🧱 Software Maintainability
+🧼 Clean Architecture
 
-* 🐕 Passionate about dog training and agility activities
-* 🏠 Interested in home automation and smart technologies
-* 📚 Constantly exploring new tools and development methodologies
-* 🤝 Strong believer in teamwork and knowledge sharing
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-> Building software that is maintainable, scalable and enjoyable to use.
+## 📌 Progetti in evidenza
+
+| Progetto | Descrizione |
+|---|---|
+| 🏦 **Enterprise Applications** | Applicazioni business-critical per contesti bancari e corporate |
+| 📧 **Outlook Add-ins** | Integrazioni Microsoft Outlook con OfficeJS e Graph API |
+| 🧱 **Frontend Architecture** | Pattern riutilizzabili e soluzioni frontend scalabili |
+| 🤖 **AI Development Workflows** | Sperimentazione su workflow di sviluppo assistiti da AI |
+
+<br/>
+
+## 🌱 Oltre il codice
+
+<div align="center">
+
+🏠 Home automation & domotica &nbsp;|&nbsp; 🐕 Dog training & agility &nbsp;|&nbsp; 📚 Apprendimento continuo &nbsp;|&nbsp; 🤝 Team collaboration
+
+</div>
+
+<br/>
+
+## 🎓 Formazione
+
+**ITS Umbria Smart Academy** — Diploma Tecnico Superiore (EQF 5)
+Specializzazione in Tecnologie Digitali per l'Industria 4.0
+
+<br/>
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/CodeCube0?label=Followers&style=for-the-badge&color=1E3A8A&logo=github" />
+<img src="https://img.shields.io/github/stars/CodeCube0?label=Stars&style=for-the-badge&color=2563EB&logo=github" />
+<img src="https://img.shields.io/github/last-commit/CodeCube0/CodeCube0?label=Last%20update&style=for-the-badge&color=3B82F6&logo=github" />
+
+</div>
+
+<br/>
+
+## 📫 Contatti
+
+<div align="center">
+
+<a href="https://fabio-fiorucci-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
+<a href="https://linkedin.com/in/fabiofiorucci">💼 LinkedIn</a> &nbsp;•&nbsp;
+<a href="https://github.com/CodeCube0">💻 GitHub</a> &nbsp;•&nbsp;
+<a href="mailto:fabiofiorucci6@gmail.com">📧 Email</a>
+
+<br/><br/>
+
+### Building software that is scalable, maintainable and enjoyable to use.
+
+</div>
