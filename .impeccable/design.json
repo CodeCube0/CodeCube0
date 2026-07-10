@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-10T00:00:00.000Z",
+  "title": "Design System: Fabio Fiorucci — GitHub Profile README",
+  "extensions": {
+    "colorMeta": {
+      "navy-deep": { "role": "primary", "displayName": "Notte Profonda", "canonical": "oklch(19% 0.04 259)", "tonalRamp": ["oklch(10% 0.02 259)", "oklch(15% 0.03 259)", "oklch(19% 0.04 259)", "oklch(28% 0.06 259)", "oklch(40% 0.08 259)", "oklch(55% 0.10 259)", "oklch(72% 0.08 259)", "oklch(90% 0.04 259)"] },
+      "blue-royal": { "role": "primary", "displayName": "Blu Reale", "canonical": "oklch(35% 0.13 260)", "tonalRamp": ["oklch(12% 0.05 260)", "oklch(20% 0.08 260)", "oklch(28% 0.11 260)", "oklch(35% 0.13 260)", "oklch(48% 0.15 260)", "oklch(62% 0.14 260)", "oklch(78% 0.10 260)", "oklch(92% 0.04 260)"] },
+      "blue-accent": { "role": "secondary", "displayName": "Blu Accento", "canonical": "oklch(55% 0.19 260)", "tonalRamp": ["oklch(15% 0.06 260)", "oklch(25% 0.10 260)", "oklch(38% 0.15 260)", "oklch(55% 0.19 260)", "oklch(65% 0.17 260)", "oklch(75% 0.13 260)", "oklch(85% 0.08 260)", "oklch(94% 0.03 260)"] },
+      "blue-mid": { "role": "neutral", "displayName": "Blu Medio", "canonical": "oklch(63% 0.17 258)", "tonalRamp": ["oklch(20% 0.06 258)", "oklch(32% 0.10 258)", "oklch(45% 0.14 258)", "oklch(63% 0.17 258)", "oklch(72% 0.15 258)", "oklch(80% 0.11 258)", "oklch(88% 0.07 258)", "oklch(95% 0.02 258)"] },
+      "blue-light": { "role": "neutral", "displayName": "Blu Chiaro", "canonical": "oklch(72% 0.13 257)", "tonalRamp": ["oklch(25% 0.05 257)", "oklch(38% 0.09 257)", "oklch(55% 0.12 257)", "oklch(72% 0.13 257)", "oklch(80% 0.10 257)", "oklch(87% 0.07 257)", "oklch(93% 0.04 257)", "oklch(97% 0.01 257)"] },
+      "blue-pale": { "role": "neutral", "displayName": "Azzurro Pallido", "canonical": "oklch(84% 0.07 255)", "tonalRamp": ["oklch(30% 0.03 255)", "oklch(45% 0.05 255)", "oklch(62% 0.06 255)", "oklch(84% 0.07 255)", "oklch(88% 0.06 255)", "oklch(92% 0.04 255)", "oklch(96% 0.02 255)", "oklch(99% 0.005 255)"] },
+      "ink-white": { "role": "neutral", "displayName": "Bianco", "canonical": "oklch(100% 0 0)", "tonalRamp": ["oklch(20% 0 0)", "oklch(35% 0 0)", "oklch(50% 0 0)", "oklch(65% 0 0)", "oklch(80% 0 0)", "oklch(90% 0 0)", "oklch(96% 0 0)", "oklch(100% 0 0)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display (banner)", "purpose": "Nome nel banner SVG, unico punto con peso da titolo." },
+      "label": { "displayName": "Label (banner)", "purpose": "Sottotitolo ruolo nel banner." }
+    },
+    "shadows": [],
+    "motion": [],
+    "breakpoints": []
+  },
+  "components": [
+    {
+      "name": "Banner Header",
+      "kind": "custom",
+      "refersTo": "banner-header",
+      "description": "Header SVG con nome, ruolo e gradiente navy→blu reale.",
+      "html": "<div class=\"ds-banner\"><h1 class=\"ds-banner-name\">Fabio Fiorucci</h1><p class=\"ds-banner-role\">Frontend Developer • Vue &amp; TypeScript Specialist</p></div>",
+      "css": ".ds-banner { background: linear-gradient(135deg, #0F172A 0%, #1E3A8A 100%); padding: 48px 80px; } .ds-banner-name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 52px; color: #FFFFFF; margin: 0; } .ds-banner-role { font-family: 'Segoe UI', Arial, sans-serif; font-size: 22px; color: #93C5FD; margin-top: 8px; }"
+    },
+    {
+      "name": "Brand Badge",
+      "kind": "chip",
+      "refersTo": "badge-brand",
+      "description": "Badge pillola per link esterni (portfolio, LinkedIn, GitHub, email).",
+      "html": "<span class=\"ds-badge-brand\">Portfolio</span>",
+      "css": ".ds-badge-brand { display: inline-flex; align-items: center; background: #0F172A; color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.03em; padding: 6px 16px; border-radius: 999px; }"
+    },
+    {
+      "name": "Stat Badge",
+      "kind": "chip",
+      "refersTo": "badge-stat",
+      "description": "Badge pillola per metriche GitHub (follower, stelle, ultimo commit).",
+      "html": "<span class=\"ds-badge-stat\">Followers: 42</span>",
+      "css": ".ds-badge-stat { display: inline-flex; align-items: center; background: #1E3A8A; color: #FFFFFF; font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 0.03em; padding: 6px 16px; border-radius: 999px; }"
+    },
+    {
+      "name": "Project Table Row",
+      "kind": "custom",
+      "refersTo": "projects-table",
+      "description": "Riga della tabella 'Progetti in evidenza': emoji-indice + nome progetto in grassetto + descrizione.",
+      "html": "<tr><td>🏦 <strong>Enterprise Applications</strong></td><td>Applicazioni business-critical per contesti bancari e corporate</td></tr>",
+      "css": "td { font-family: -apple-system, 'Segoe UI', sans-serif; font-size: 14px; line-height: 1.6; color: #0F172A; vertical-align: top; padding: 8px 12px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Il Turno di Notte",
+    "overview": "Il sistema visivo del README è un cielo notturno che schiarisce verso l'alba: si parte dal navy quasi-nero (#0F172A) dell'header e si sale, passo dopo passo, verso l'azzurro chiaro (#93C5FD) dei dettagli e degli accenti. Non è decorazione: è la stessa progressione del percorso professionale raccontato nella timeline — un ingegnere che lavora quotidianamente su sistemi enterprise solidi (il navy, il fondamento) e che al tempo stesso sta esplorando territori nuovi come l'AI-assisted development (l'azzurro che schiarisce, la direzione verso cui si muove). Il sistema rifiuta esplicitamente l'estetica \"da tutorial GitHub\": badge ammassati senza gerarchia, emoji usate come riempitivo invece che come indice visivo, sezioni scaffolding numerate identiche ripetute meccanicamente.",
+    "keyCharacteristics": [
+      "Un'unica famiglia cromatica (navy → blu → azzurro chiaro), nessun colore fuori palette",
+      "Struttura ordinata: sezioni con gerarchia chiara, non un accumulo di badge",
+      "Voce tecnica ma calda: solidità enterprise + curiosità verso l'AI, mai hype vuoto",
+      "Densità informativa alta ma leggibile: ogni riga conta"
+    ],
+    "rules": [
+      { "name": "La Regola del Cielo Unico", "body": "Ogni colore del sistema appartiene alla stessa scala navy→azzurro. Nessun colore estraneo entra nella palette propria, a eccezione dei colori di marchio fissi imposti da terze parti.", "section": "colors" },
+      { "name": "La Regola dei Colori di Marchio Esterni", "body": "I badge LinkedIn, GitHub e Gmail mantengono il colore ufficiale del servizio e non si estendono ad altri elementi del README.", "section": "colors" },
+      { "name": "La Regola della Famiglia Unica", "body": "Il sistema usa esattamente una famiglia tipografica propria (Segoe UI), confinata al banner SVG.", "section": "typography" },
+      { "name": "La Regola della Piattezza Voluta", "body": "Nessun elemento del README deve simulare elevazione con ombre, bordi sfumati o gradienti decorativi fuori dal banner.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do mantenere ogni colore all'interno della scala navy→blu→azzurro pallido",
+      "Do usare i colori di marchio ufficiali solo sui badge che rappresentano quel servizio specifico",
+      "Do far iniziare ogni riga di tabella o elenco con un'unica emoji-indice coerente per sezione",
+      "Do tenere i paragrafi di corpo a 2-3 righe massimo prima di una rottura visiva"
+    ],
+    "donts": [
+      "Don't aggiungere colori fuori dalla scala navy/blu per badge o testo propri, incluse le icone dei singoli linguaggi/tool",
+      "Don't usare eyebrow numerati come scaffolding ripetuto sopra ogni sezione",
+      "Don't ammassare badge senza raggruppamento logico",
+      "Don't introdurre ombre, gradienti decorativi o glassmorphism fuori dal banner",
+      "Don't aggiungere una seconda famiglia tipografica oltre a Segoe UI",
+      "Don't ripetere le stesse informazioni (stack, focus, progetti) in più contenitori diversi"
+    ]
+  }
+}
