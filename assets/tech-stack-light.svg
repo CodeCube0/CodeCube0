@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="503" viewBox="0 0 840 503">
+  <!-- Generated: same .skill-group__label / .skill-tag styles as the site -->
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="0" y="14" font-size="12" letter-spacing=".72" fill="#595e64">FRONTEND</text>
+    <rect x="0" y="23" width="840" height="1" fill="#dbdee2"/>
+    <rect x="0.5" y="39.5" width="68.0" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="34.5" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">Vue 3</text>
+    <rect x="77.5" y="39.5" width="75.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="115.4" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">Nuxt 3</text>
+    <rect x="162.3" y="39.5" width="107.0" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="215.8" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">TypeScript</text>
+    <rect x="278.3" y="39.5" width="146.0" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="351.3" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">JavaScript ES6+</text>
+    <rect x="433.3" y="39.5" width="68.0" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="467.3" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">HTML5</text>
+    <rect x="510.3" y="39.5" width="60.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="540.4" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">CSS3</text>
+    <rect x="579.5" y="39.5" width="91.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="625.2" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">PrimeVue</text>
+    <rect x="679.9" y="39.5" width="68.0" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="713.9" y="58.5" text-anchor="middle" font-size="13" fill="#595e64">Pinia</text>
+    <rect x="0.5" y="77.5" width="91.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="46.2" y="96.5" text-anchor="middle" font-size="13" fill="#595e64">OfficeJS</text>
+    <text x="0" y="151" font-size="12" letter-spacing=".72" fill="#595e64">BACKEND</text>
+    <circle cx="65.9" cy="147" r="2.5" fill="#054980"/>
+    <text x="73.4" y="151" font-size="12" letter-spacing=".72" fill="#054980">GROWING</text>
+    <rect x="0" y="160" width="840" height="1" fill="#dbdee2"/>
+    <rect x="0.5" y="176.5" width="60.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="30.6" y="195.5" text-anchor="middle" font-size="13" fill="#595e64">Java</text>
+    <rect x="69.7" y="176.5" width="114.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="127.1" y="195.5" text-anchor="middle" font-size="13" fill="#595e64">Spring Boot</text>
+    <rect x="193.5" y="176.5" width="91.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="239.2" y="195.5" text-anchor="middle" font-size="13" fill="#595e64">JHipster</text>
+    <rect x="293.9" y="176.5" width="75.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="331.8" y="195.5" text-anchor="middle" font-size="13" fill="#595e64">S3 API</text>
+    <rect x="378.7" y="176.5" width="75.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="416.6" y="195.5" text-anchor="middle" font-size="13" fill="#595e64">Wasabi</text>
+    <text x="0" y="250" font-size="12" letter-spacing=".72" fill="#595e64">MOBILE</text>
+    <rect x="0" y="259" width="840" height="1" fill="#dbdee2"/>
+    <rect x="0.5" y="275.5" width="83.6" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="42.3" y="294.5" text-anchor="middle" font-size="13" fill="#595e64">Flutter</text>
+    <rect x="93.1" y="275.5" width="60.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="123.2" y="294.5" text-anchor="middle" font-size="13" fill="#595e64">Dart</text>
+    <text x="0" y="349" font-size="12" letter-spacing=".72" fill="#595e64">TOOLING &amp; INFRA</text>
+    <rect x="0" y="358" width="840" height="1" fill="#dbdee2"/>
+    <rect x="0.5" y="374.5" width="52.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="26.7" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">Git</text>
+    <rect x="61.9" y="374.5" width="122.6" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="123.2" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">Azure DevOps</text>
+    <rect x="193.5" y="374.5" width="130.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="258.7" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">JetBrains IDE</text>
+    <rect x="332.9" y="374.5" width="83.6" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="374.7" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">Webpack</text>
+    <rect x="425.5" y="374.5" width="60.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="455.6" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">Vite</text>
+    <rect x="494.7" y="374.5" width="177.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="583.3" y="393.5" text-anchor="middle" font-size="13" fill="#595e64">Microsoft Graph API</text>
+    <text x="0" y="448" font-size="12" letter-spacing=".72" fill="#595e64">AI</text>
+    <rect x="0" y="457" width="840" height="1" fill="#dbdee2"/>
+    <rect x="0.5" y="473.5" width="114.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="57.9" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">Claude Code</text>
+    <rect x="124.3" y="473.5" width="52.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="150.5" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">MCP</text>
+    <rect x="185.7" y="473.5" width="169.4" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="270.4" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">Agents / Subagents</text>
+    <rect x="364.1" y="473.5" width="177.2" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="452.7" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">Context Engineering</text>
+    <rect x="550.3" y="473.5" width="83.6" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="592.1" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">ChatGPT</text>
+    <rect x="642.9" y="473.5" width="75.8" height="29" rx="14.5" fill="#f2f5f9" stroke="#dbdee2"/>
+    <text x="680.8" y="492.5" text-anchor="middle" font-size="13" fill="#595e64">Gemini</text>
+  </g>
+</svg>
